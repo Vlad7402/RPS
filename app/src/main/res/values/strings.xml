@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Rock">Камень</string>
+    <string name="Scissors">Ножницы</string>
+    <string name="Paper">Бумага</string>
+    <string name="Back">Назад</string>
+</resources>
